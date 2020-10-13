@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127292099969",
+    "firebase_url": "https://etrain-5c28e.firebaseio.com",
+    "project_id": "etrain-5c28e",
+    "storage_bucket": "etrain-5c28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127292099969:android:741a47dbcc3d0f01f7ac80",
+        "android_client_info": {
+          "package_name": "com.example.etrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127292099969-ijfe1glugkma7coe3r1gna3h72kslbjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etrain",
+            "certificate_hash": "f2c971f1333092a215dcdbc2ab4a91c0b1813038"
+          }
+        },
+        {
+          "client_id": "127292099969-affil7bn99hfi7f1t07a99mndlu2t9ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qeDiEJtwGBpMMMT39pxVVncfer74nfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127292099969-affil7bn99hfi7f1t07a99mndlu2t9ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
